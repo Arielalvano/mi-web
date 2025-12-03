@@ -7,3 +7,4 @@ neuralforecast
 streamlit
 gluonts[torch]
 optuna
+openpyxl
